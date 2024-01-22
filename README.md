@@ -1,2 +1,1 @@
-# practice
- a practice repository
+internet-sociology-paper
